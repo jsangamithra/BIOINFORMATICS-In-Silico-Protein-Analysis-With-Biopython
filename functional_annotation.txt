@@ -1,0 +1,13 @@
+STEP 5: FUNCTIONAL ANNOTATION
+------------------------------
+
+Top BLAST Hit Information:
+Hit ID: ref|WP_012299000.1|
+Hit Description: MULTISPECIES: alkaline phosphatase family protein [Clavibacter] >gb|MBD5381593.1| alkaline phosphatase family protein [Clavibacter sp.] >gb|MGJ1427782.1| alkaline phosphatase family protein [Clavibacter sepedonicus] >gb|MGJ1463945.1| alkaline phosphatase family protein [Clavibacter sepedonicus] >gb|MGJ1467117.1| alkaline phosphatase family protein [Clavibacter sepedonicus] >gb|MGJ1478830.1| alkaline phosphatase family protein [Clavibacter sepedonicus]
+Alignment Length: 379
+E-value: 0.0
+Bit Score: 1917.0
+Percent Identity: 100.00%
+
+Functional Inference:
+Based on the high sequence similarity to the top BLAST hit, the query protein (uniprot_id = 'B0RC17') is predicted to have a similar molecular function and biological role as the matched protein. This annotation is inferred computationally and requires experimental validation.

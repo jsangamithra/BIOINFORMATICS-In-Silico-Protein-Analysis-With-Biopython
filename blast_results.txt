@@ -1,0 +1,34 @@
+STEP 4: BLAST HOMOLOGY SEARCH RESULTS
+-----------------------------------
+Query: B0RC17 - SubName: Full=Conserved hypotethical protein {ECO:0000313|EMBL:CAQ01745.1};
+
+Hit ID: ref|WP_012299000.1|
+Hit Description: MULTISPECIES: alkaline phosphatase family protein [Clavibacter] >gb|MBD5381593.1| alkaline phosphatase family protein [Clavibacter sp.] >gb|MGJ1427782.1| alkaline phosphatase family protein [Clavibacter sepedonicus] >gb|MGJ1463945.1| alkaline phosphatase family protein [Clavibacter sepedonicus] >gb|MGJ1467117.1| alkaline phosphatase family protein [Clavibacter sepedonicus] >gb|MGJ1478830.1| alkaline phosphatase family protein [Clavibacter sepedonicus]
+Alignment Length: 379
+E-value: 0.0
+Score: 1917.0
+--------------------------------------------------
+Hit ID: ref|WP_194682539.1|
+Hit Description: alkaline phosphatase family protein [Clavibacter sp. VKM Ac-2542] >gb|MBF4619862.1| alkaline phosphatase family protein [Clavibacter sp. VKM Ac-2542]
+Alignment Length: 379
+E-value: 0.0
+Score: 1857.0
+--------------------------------------------------
+Hit ID: ref|WP_435078851.1|
+Hit Description: alkaline phosphatase family protein [Clavibacter michiganensis] >gb|XXK73384.1| alkaline phosphatase family protein [Clavibacter michiganensis]
+Alignment Length: 379
+E-value: 0.0
+Score: 1855.0
+--------------------------------------------------
+Hit ID: ref|WP_243574073.1|
+Hit Description: alkaline phosphatase family protein [Clavibacter phaseoli] >gb|MCJ1711106.1| alkaline phosphatase family protein [Clavibacter phaseoli]
+Alignment Length: 379
+E-value: 0.0
+Score: 1852.0
+--------------------------------------------------
+Hit ID: ref|WP_043586845.1|
+Hit Description: MULTISPECIES: alkaline phosphatase family protein [Clavibacter] >gb|KDP90156.1| hypothetical protein W824_11660 [Clavibacter cf. michiganensis LMG 26808] >gb|RII96891.1| alkaline phosphatase family protein [Clavibacter michiganensis] >gb|UKF23789.1| alkaline phosphatase family protein [Clavibacter seminis]
+Alignment Length: 379
+E-value: 0.0
+Score: 1848.0
+--------------------------------------------------

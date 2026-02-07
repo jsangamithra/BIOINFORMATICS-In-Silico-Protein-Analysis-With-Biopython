@@ -1,0 +1,12 @@
+STEP 3: SEQUENCE FILTERING & VALIDATION
+-------------------------------------
+UniProt ID: B0RC17
+Protein Name: SubName: Full=Conserved hypotethical protein {ECO:0000313|EMBL:CAQ01745.1};
+Organism: Clavibacter sepedonicus (Clavibacter michiganensis subsp. sepedonicus).
+
+Protein Length: 379 amino acids
+Minimum Length Required: 50 amino acids
+Contains Ambiguous Amino Acids: False
+
+Validation Status: PASS
+Decision: Sequence is suitable for downstream analysis (BLAST & annotation).

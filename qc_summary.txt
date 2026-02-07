@@ -1,0 +1,29 @@
+Sequence ID: B0RC17
+Description: SubName: Full=Conserved hypotethical protein {ECO:0000313|EMBL:CAQ01745.1};
+Organism: Clavibacter sepedonicus (Clavibacter michiganensis subsp. sepedonicus).
+
+STEP 2: SEQUENCE QUALITY & BASIC ANALYSIS
+---------------------------------------
+Protein Length: 379 amino acids
+
+Amino Acid Composition (%):
+A: 16.62%
+C: 0.53%
+D: 6.60%
+E: 5.54%
+F: 2.37%
+G: 10.55%
+H: 3.17%
+I: 3.17%
+K: 0.79%
+L: 9.23%
+M: 1.58%
+N: 0.00%
+P: 6.07%
+Q: 2.11%
+R: 9.76%
+S: 5.28%
+T: 3.96%
+V: 8.71%
+W: 1.85%
+Y: 2.11%
