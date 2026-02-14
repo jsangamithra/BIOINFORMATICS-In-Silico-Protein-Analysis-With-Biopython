@@ -1,7 +1,9 @@
 # BIOINFORMATICS-In-Silico-Protein-Analysis-With-Biopython
 This in-silico analysis project predicts that the hypothetical protein B0RC17 functions as an alkaline phosphatase in Clavibacter sepedonicus, demonstrating how bioinformatics pipelines can convert uncharacterized sequences into reliable functional predictions.
 
+
  In-Silico Identification and Functional Characterization of Hypothetical Protein B0RC17.
+ 
 Project Overview
 This project focuses on the computational identification and functional characterization of a hypothetical protein (B0RC17) from Clavibacter sepedonicus using a homology-based bioinformatics pipeline.
 The central objective was to determine how an unknown protein sequence can be systematically analyzed to:
@@ -10,9 +12,11 @@ The central objective was to determine how an unknown protein sequence can be sy
 •	Identify homologous proteins
 •	Predict biological function
 The results demonstrate that a structured in-silico workflow can reliably infer the likely function of an uncharacterized protein.
+
 Author
 Sangamithra J
 Bioinformatics Enthusiast | Computational Biology | Python | Biopython.
+
 Tools & Technologies Used
 •	Python
 •	Biopython
